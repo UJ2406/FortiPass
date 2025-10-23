@@ -128,7 +128,7 @@ FortiPass/
 ├── README.md              # This file – Complete documentation
 ├── password_tester.py     # Main menu-driven password strength tester
 ├── requirements.txt       # (Optional) Python requirements (uses only standard library)
-├── screenshot             #  demo images
+├── screenshots             #  demo images
 
 ```
 ---
