@@ -38,13 +38,8 @@ Perfect for students, cybersecurity professionals, developers, and anyone intere
     cd fortipass
     ```
 
-2. **(Optional) Create and activate a virtual environment**
-    ```
-    python -m venv venv
-    source venv/bin/activate   # On Windows: venv\Scripts\activate
-    ```
 
-3. **Run the tool**
+2. **Run the tool**
     ```
     python password_tester.py
     ```
