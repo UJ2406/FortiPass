@@ -1,0 +1,24 @@
+System Requirements
+  -Python 3.7 or higher
+  -Any OS: Windows, Mac, Linux	
+  -No external libraries required; only standard Python modules (re, math, os)
+
+Software Requirements
+  -Python (download from python.org if not available)
+  -Git (optional, only needed to clone or update the repo)
+
+Project File Requirements
+  -These files should exist in your project folder:
+  -password_tester.py (main script)
+  -README.md (documentation)
+  -requirements.txt (for documentation; can list Python >= 3.7)
+
+Libraries Used in FortiPass
+  -re
+   For regular expressions (pattern matching in passwords).
+
+  -math
+   For mathematical operations, specifically entropy calculation.
+
+  -os
+   For file operations (checking if log file exists, etc.).
