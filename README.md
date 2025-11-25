@@ -136,7 +136,7 @@ FortiPass/
 
 ## 🔗 Connect
 
-For issues, suggestions, or collaboration, please open a GitHub issue or reach out via email: ujjwalshield@example.com
+For issues, suggestions, or collaboration, please open a GitHub issue or reach out via email: ujjwalshield@gmail.com
 
 ---
 
